@@ -1,0 +1,6 @@
+## Interface: 80300
+## Title: |cFFFFFFFFDane|r|cffa335eeBrain|r
+## Notes: Makes changes to the default actionbars and cc indicator and hides Hotkeys
+## Author: BELLANTE
+## SavedVariablesPerCharacter: DBHideHotKeys_HK_Hidden, DBHideHotKeys_MN_Hidden
+DaneBrain.lua
