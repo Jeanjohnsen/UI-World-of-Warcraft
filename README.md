@@ -19,7 +19,6 @@ MultiBarBottomLeftButton1.SetPoint = function() end
 ```
 ### Statusbar and mini menu
 ```Lua
--- Remove mini menu
 StatusTrackingBarManager:Hide()
 MicroButtonAndBagsBar:Hide()
 MicroButton:Hide()
@@ -27,7 +26,9 @@ MicroMenu:Hide()
 ```
 
 ### Hide macro and hotkey text
+
 Type ```/hhk``` to hide hotkeys
+
 Type ```/hmn``` to hide macro names
 
 ## License
