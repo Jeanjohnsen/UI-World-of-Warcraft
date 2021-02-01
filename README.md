@@ -23,7 +23,7 @@ MicroButton:Hide()
 MicroMenu:Hide()
 ```
 
-## hide macro and hotkey text
+### Hide macro and hotkey text
 Type ```/hhk``` to hide hotkeys
 Type ```/hmn``` to hide macro names
 
